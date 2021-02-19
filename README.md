@@ -14,7 +14,7 @@ Berikut panduan untuk menjalankan project ini secara lokal
 
 * Clone Repository
     ```sh
-    https://github.com/Shhb0420/RESTful-API-blanja-app-using-ExpressJs
+    https://github.com/Vsept17/BlanjaWeb-ReactJS
     ```
 * ReactJS
     ```sh
